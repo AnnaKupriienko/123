@@ -21,6 +21,7 @@
     gap: 15px;
     justify-content: center;
     height: 40px;
+    margin-top: 20px;
 }
 
 ::placeholder {
